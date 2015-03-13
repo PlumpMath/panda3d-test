@@ -1,2 +1,1 @@
-A simple game in Panda3D, a mess actually
--jtr
+A simple scenegraph explore the Panda3D gaming engine
