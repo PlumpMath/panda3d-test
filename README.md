@@ -1,1 +1,1 @@
-A simple scenegraph explore the Panda3D gaming engine
+A simple game to understand scenegraph and collision sphere the Panda3D gaming engine
